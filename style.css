@@ -1,0 +1,105 @@
+
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input,
+label {
+    margin: .4rem 0;
+    background-color: teal;
+    width: 100px;
+    border-radius: 10% 10% 10% 10%;
+}
+
+body {
+	background-color: red;
+
+}
+
+.n2 {
+	background-color: black;
+	color: teal;
+	  border-radius: 10% 10% 10% 10%;
+	  text-align: center;
+
+
+}
+.textname {
+	border: groove 1em ;
+  border-radius: 2em black;
+   border-radius: 5% 5% 5% 5%;
+   margin-right: 720px;
+   text-align: center;
+   padding-right: 1px;
+   margin-left: 678px;
+   width: 130px;
+   align-content: center;
+
+}
+.send {
+	color: teal;
+     
+}
+.email1 {
+
+	label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+align-self: center;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
+.email2 {
+}
+.number1 {
+		label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
+.number2 {
+	
+}
+.pass1 {
+
+	label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
+.pass2 {
+
+}
+.name1 {
+	align-content: center;
+		label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+    
+}
+
+input,
+label {
+    margin: .4rem 0;
+
+}
+}
